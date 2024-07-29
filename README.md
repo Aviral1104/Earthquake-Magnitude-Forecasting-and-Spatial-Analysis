@@ -1,0 +1,1 @@
+# Earthquake-Magnitude-Forecasting-and-Spatial-Analysis
